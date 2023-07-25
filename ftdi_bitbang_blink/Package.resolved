@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "swiftftdi",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/mseriukov/SwiftFTDI.git",
+      "state" : {
+        "revision" : "c3ff52a769b222bf1d2b847a6bd70c067fbae35d",
+        "version" : "0.2.0"
+      }
+    }
+  ],
+  "version" : 2
+}
